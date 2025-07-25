@@ -1,4 +1,4 @@
-# Giuliana Flores Mobile Robot 1.4.0
+# Giuliana Flores Mobile Robot 140
 
 Este projeto automatiza testes para o aplicativo mobile da Giuliana Flores utilizando Robot Framework. O objetivo é garantir a qualidade das principais funcionalidades do app, como login, navegação, seleção de produtos e fluxo de compra.
 
